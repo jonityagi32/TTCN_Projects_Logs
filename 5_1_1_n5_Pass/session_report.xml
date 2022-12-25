@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="session_report.xsl"?>
+<session_report>
+ <project>5G_StandAlone</project>
+ <start_time>06-12-2022 12:21:17</start_time>
+ <end_time>06-12-2022 12:24:08</end_time>
+ <duration>00:02:51</duration>
+ <campaigns>
+  <campaign>
+   <test_cases>
+    <test_case>
+     <name>NR5G_Iconography_Testsuite.VZ_TC_5G_Iconography_5_1_1</name>
+     <tc_file>NR5G_Iconography_Testsuite</tc_file>
+     <tc_line>66</tc_line>
+     <verdict>pass</verdict>
+     <details>
+      <comp>NR5GC</comp>
+      <file>CommonDefs</file>
+      <line>566</line>
+      <reason>C:\Joni\5G_StandAlone\5GNRSA_MAIN\VZ_Iconography\Iconography_Registration_NR5GC_NR.ttcn:99: Step 3</reason>
+      <li>344</li>
+     </details>
+     <elapsed>151454</elapsed>
+    </test_case>
+   </test_cases>
+  </campaign>
+ </campaigns>
+</session_report>
